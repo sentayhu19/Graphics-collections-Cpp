@@ -19,7 +19,7 @@
 
 ### Install
 
-- Download Turbo C++
+- <a href="https://turbo-c.soft32.com/free-download/?nc&dm=3">Download Turbo C++ </a>
 
 - Create turboc directory inside c drive and extract the tc3.zip inside c:\turboc
 
