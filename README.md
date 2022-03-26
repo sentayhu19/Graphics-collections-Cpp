@@ -51,7 +51,7 @@ git clone https://github.com/sentayhu19/Graphics-collections-Cpp <Your-Build-Dir
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]( https://github.com/sentayhu19/Graphics-collections-Cpp /issues).
+Feel free to check the [issues page]( https://github.com/sentayhu19/Graphics-collections-Cpp/issues).
 
 ## Show your support
 
