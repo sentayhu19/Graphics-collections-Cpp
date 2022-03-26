@@ -15,7 +15,7 @@
 
 ### Prerequisites
 
-- <a href="https://www.javatpoint.com/cpp-installation"> Turbo c++ </a>
+- <a href="https://turbo-c.soft32.com/free-download/?nc&dm=3"> Turbo c++ </a>
 
 ### Install
 
