@@ -1,7 +1,7 @@
 
 # Graphics using C++
 
-> This Collection of Graphics done in C++
+> This Collection of Graphics Desgins done in C++
 
 <!-- ![Graphics (20)](https://github.com/sentayhu19/graphics) -->
 
